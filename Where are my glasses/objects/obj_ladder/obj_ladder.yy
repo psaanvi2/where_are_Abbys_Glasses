@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_ladder",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_ladder",
+    "path": "sprites/spr_ladder/spr_ladder.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
