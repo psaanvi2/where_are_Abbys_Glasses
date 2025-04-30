@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_player",
   "spriteId": {
-    "name": "spr_player",
-    "path": "sprites/spr_player/spr_player.yy",
+    "name": "spr_Abby",
+    "path": "sprites/spr_Abby/spr_Abby.yy",
   },
   "solid": false,
   "visible": true,
