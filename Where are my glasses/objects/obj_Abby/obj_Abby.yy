@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_player",
+  "name": "obj_Abby",
   "spriteId": {
     "name": "spr_Abby",
     "path": "sprites/spr_Abby/spr_Abby.yy",
