@@ -10,8 +10,10 @@ is_grounded = place_meeting(x, y+2, ground_object);
 // Check if touching a ladder 
 is_climbing = place_meeting(x, y, ladder_object);
 
-
-
+// ABBY COLIDES WITH COIN GO TO NEXT ROOM 
+if (place_meeting(x, y, obj_coin)) {
+	room_goto_next();
+}
 // ######################## MOVEMENT ########################
 
     // Climbing
