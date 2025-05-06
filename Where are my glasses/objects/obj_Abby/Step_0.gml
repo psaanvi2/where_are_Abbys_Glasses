@@ -14,6 +14,10 @@ is_climbing = place_meeting(x, y, ladder_object);
 if (place_meeting(x, y, obj_coin)) {
 	room_goto_next();
 }
+
+if (place_meeting(x, y, obj_glasses)){
+    room_goto_next();
+}
 // ######################## MOVEMENT ########################
 
     // Climbing
